@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace group_7_c_sharp
+namespace TipstjänstNabil_App
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace group_7_c_sharp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frm_start());
         }
     }
 }

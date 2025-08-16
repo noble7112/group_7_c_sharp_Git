@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace group_7_c_sharp
+namespace TipstjänstNabil_App
 {
-    public partial class Form1: Form
+    public partial class frm_start: Form
     {
-        public Form1()
+        public frm_start()
         {
             InitializeComponent();
         }
